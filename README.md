@@ -1,7 +1,6 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-## 👋 &nbsp;Hey there! I'm Aditya
-
+## 👋 &nbsp;Hey there! I'm Oshea
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
